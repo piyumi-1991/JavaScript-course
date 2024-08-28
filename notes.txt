@@ -1,0 +1,50 @@
+# JavaScript
+
+# What is JavaScript?
+    JavaScript is a technology that we used to create websites.
+    ex: youtube.com
+        amazone.com
+
+usually we use mainly 3 technologies to create a website.
+HTML
+CSS
+JavaScript
+
+HTML creates the content of a website. (buttons, images, texts)
+CSS changes the appearences of the website. to make the website looks nice.
+JavaScript makes the website interactive.
+
+before work on the JavaScript, we need to have setup as,
+a web browser.
+
+To learn JavaScript, give instructions to the computer.
+then the computer follows the instructions.
+
+# Terminology (Naming)
+
+JavaScript is a programming language. Used to code.
+To test the JS code, we can use web browser's console.
+
+JS can do many things,
+- create alerts
+- do math etc..
+
+alert('Hello');
+4 + 4
+
+JavaScript is case sensistive.
+
+document.body.innerHTML = 'Hello';
+this removes everything on the webpage and replaces with 'Hello'. This is used to odify the web page.
+it is one of the most important feature in Java Script.
+
+Basics of JavaScript--
+
+- Giving instructions to a computer. (Code)
+- The computer follows our instructions. (running the code)
+
+
+
+
+
+
